@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/orbix-app/static/css/main.ec414837.css",
-    "main.js": "/orbix-app/static/js/main.fe720a4c.js",
+    "main.js": "/orbix-app/static/js/main.d2ce4396.js",
     "static/js/453.ff226a17.chunk.js": "/orbix-app/static/js/453.ff226a17.chunk.js",
     "index.html": "/orbix-app/index.html",
     "main.ec414837.css.map": "/orbix-app/static/css/main.ec414837.css.map",
-    "main.fe720a4c.js.map": "/orbix-app/static/js/main.fe720a4c.js.map",
+    "main.d2ce4396.js.map": "/orbix-app/static/js/main.d2ce4396.js.map",
     "453.ff226a17.chunk.js.map": "/orbix-app/static/js/453.ff226a17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec414837.css",
-    "static/js/main.fe720a4c.js"
+    "static/js/main.d2ce4396.js"
   ]
 }
